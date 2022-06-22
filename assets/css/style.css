@@ -1,0 +1,67 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo1{
+    width: 17rem;
+}
+
+@media (max-width: 768px) {
+    .logo1{
+        width: 8rem;
+   
+}
+}
+
+.nv{
+    background-color: #28A745;
+}
+
+.tl{
+    color: #212529;
+    font-size: 20px;
+    font-weight: 300;
+}
+.p1{
+    color: #707070;
+    font-size: 16px;
+}
+.sp{
+    font-size: 13px;
+}
+.pr1{
+    font-size: 16px;
+    font-weight: 300;
+    color: #707070;
+    
+}
+
+.pr2{
+    font-size: 20px;
+    font-weight: 500;
+    color: #28A745;
+    font-weight: medium;
+}
+.inp{
+    height: 3rem;
+}
+
+.fm{
+    background-color: #28A745;
+}
+
+.bt{
+    font-size: 16px;
+    font-weight: 500;
+    font-weight: medium;
+}
+h3{
+    font-size: 21px;
+    font-weight: 500;
+    font-weight: medium;
+}
+
+.ft{
+    height: 2rem;
+}
+
